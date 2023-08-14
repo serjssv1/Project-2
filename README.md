@@ -17,7 +17,7 @@ git clone https://github.com/cyberspacedk/Git-commands.git FolderName
 
 git clone https://github.com:nicothin/web-design.git . 
           
-# Просмотр изменений
+# Просмотр изменений   
 
 - git status              # показать состояние репозитория (отслеживаемые, изменённые, новые файлы и пр.)
 - git diff                # сравнить рабочую директорию и индекс (неотслеживаемые файлы ИГНОРИРУЮТСЯ)
